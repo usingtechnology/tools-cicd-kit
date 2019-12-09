@@ -1,0 +1,14 @@
+.DS_Store
+
+.yo-rc.json
+
+# Editor directories and files
+.idea
+.vscode
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
